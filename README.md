@@ -17,7 +17,7 @@
 
 <div class="working">
 <p>
-Working Principle:
+<legend>Working Principle:</legend><br>
 Initial Setup:
 
 The IR sensor is continuously monitoring the driver's eye condition.
